@@ -1,5 +1,7 @@
 # alef
 
+**[Live demo](https://resume-vue-deploy.web.app/)** :globe_with_meridians:
+
 ## Project setup
 ```
 npm install
